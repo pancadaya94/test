@@ -3,13 +3,13 @@
   "users": [
     {
       "id": 1,
-      "name": "Budi Santoso",
-      "email": "john@example.com"
+      "name": "Tableau",
+      "email": "Tableau@mail.com"
     },
     {
       "id": 2,
-      "name": "Dedy kobisa",
-      "email": "jane@example.com"
+      "name": "Power BI",
+      "email": "PowerBI@mail.com"
     }
   ]
 }
