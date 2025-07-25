@@ -10,11 +10,6 @@
       "id": 2,
       "name": "Power BI",
       "email": "PowerBI@mail.com"
-    },
-    {
-      "id": 3,
-      "name": "Grafana",
-      "email": "Grafana@mail.com"
     }
   ]
 }
